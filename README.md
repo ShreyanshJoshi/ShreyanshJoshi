@@ -3,7 +3,7 @@ I'm Shreyansh Joshi, currently a final year undergraduate student at BITS Pilani
 
 - 🔭 I’m currently working on detecting and classifying facial microexpressions by training CNN + LSTM models, as a part of my undergraduate degree.
 - 🌱 I'm also working on the Empirical Analysis of Approximation Algorithms.
-- 😄 I would be joining Microsoft IDC as a SDE next summer.
+- 😄 I would be joining Microsoft IDC as a full-time SDE next summer.
 - ⚡ Fun fact: Anything in Computer Science piques my curiosity. I specifically like to study and work in the domains of Theoretical Computer Science and Artificial Intelligence (Deep Learning).
 
 ### Connect with me:
@@ -25,6 +25,7 @@ I'm Shreyansh Joshi, currently a final year undergraduate student at BITS Pilani
 <img align="left" alt="C++" width="26px" height="26px"title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
 <img align="left" alt="TF" width="26px" height="26px" title="TensorFlow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Keras"  width="76px" height="22px" title="Keras" src="https://keras.io/img/logo.png" /> 
   
 <img align="left" alt="Jupyter Notebook" width="26px" height="26px" title="Jupyter Notebook" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" />
 
