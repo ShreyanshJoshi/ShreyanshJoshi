@@ -8,6 +8,8 @@ I'm Shreyansh Joshi, currently a final year undergraduate student at BITS Pilani
 
 ### Connect with me:
 
+[<img align="left" alt="shreyanshjoshi.github.io/" title="shreyanshjoshi.github.io/" width="22px"  height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shreyanshjoshi.github.io/)
+
 [<img align="left" alt="shreyansh-joshi-b7135018a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shreyansh-joshi-b7135018a/)
 
 [<img align="left" alt="shreyanshjoshi13@gmail.com | E-mail" title="shreyanshjoshi13@gmail.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:shreyanshjoshi13@gmail.com)
