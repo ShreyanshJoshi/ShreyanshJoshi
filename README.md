@@ -40,7 +40,12 @@ I'm Shreyansh Joshi, currently a final year undergraduate student at BITS Pilani
 <img align="left" alt="GitHub" width="26px" height="26px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 </div>
-
 <br/><br/>
 
+<!-- ### ⚙️ &nbsp;GitHub Analytics
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ShreyanshJoshi&show_icons=true&include_all_commits=true&hide=stars" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshJoshi&layout=compact" />
+</p> -->
 ---
