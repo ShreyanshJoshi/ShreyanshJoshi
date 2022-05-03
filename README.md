@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Shreyansh Joshi, currently a final year undergraduate student at BITS Pilani, Goa Campus, majoring in Computer Science.
 
-- 🔭 I’m currently working on detecting and classifying facial microexpressions by training CNN + LSTM models, as a part of my undergraduate degree.
-- 🌱 I'm also working on the Empirical Analysis of Approximation Algorithms.
-- 😄 I would be joining Microsoft IDC as a full-time SDE next summer.
-- ⚡ Fun fact: Anything in Computer Science piques my curiosity. I specifically like to study and work in the domains of Theoretical Computer Science and Artificial Intelligence (Deep Learning).
+- 🔭 I am currently working in Azure BCDR team as an intern at Microsoft, building a single window for disaster recovery solutions.
+- 🌱 Previously, I have worked on *Identifying speech factors relevant in predicting Alzheimer's using ML* and on *Detecting and classifying facial microexpressions by training CNN + LSTM models*, as a part of my undergraduate degree. I also had the privilege of exploring the research side of approximation algorithms by implementing various algorithms and observing their results.
+- ⚡ I am also working on *3D unsupervised classification where we are targeting on a challenge senario which we have imbalanced number of samples in each class*, under Prof. Min Xu, in his lab at CMU.
+- 😄 Fun fact: Anything in Computer Science piques my curiosity. I specifically like to study and work in the domains of Theoretical Computer Science and Artificial Intelligence (Deep Learning).
 
 ### Connect with me:
 
