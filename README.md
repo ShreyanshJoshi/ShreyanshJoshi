@@ -2,10 +2,10 @@
 I'm Shreyansh and have just finished the final year of my undergraduate studies at BITS Pilani, Goa Campus, majoring in Computer Science. I am currently working in Azure BCDR team as a software engineer at Microsoft, building a single window for disaster recovery solutions.
 - 🌱 Previously, I have worked on *Identifying speech factors relevant in predicting Alzheimer's using ML* and on *Detecting and classifying facial microexpressions by training CNN + LSTM models*, as a part of my undergraduate degree. I also had the opportunity of exploring the research side of approximation algorithms by implementing various algorithms and observing their results.
 - ⚡ I also have worked on *3D unsupervised classification where we targeted a challenge scenario where there were unequal number of samples in each class*, under Prof. Min Xu, in his lab at CMU.
-- 😄 Fun fact: Anything in Computer Science piques my curiosity. I specifically like to study and work in the domains of Theoretical Computer Science and Artificial Intelligence (Deep Learning).
+- 😄 Fun fact: Anything in Computer Science piques my curiosity. I specifically like to study and work in the domains of Cloud Computing and Artificial Intelligence (Deep Learning).
 
-### Github activity:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshJoshi&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height="250px"  alt="2" >
+<!-- ### Github activity:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshJoshi&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height="250px"  alt="2" > -->
 
 ### Connect with me:
 
@@ -22,31 +22,36 @@ I'm Shreyansh and have just finished the final year of my undergraduate studies 
 
 ![Visitor Count](https://profile-counter.glitch.me/ShreyanshJoshi/count.svg)
 
+<br/>
+
 ### Languages and Tools:
-<div>
-<img align="left" alt="Python" width="26px" height="26px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="C++" width="26px" height="26px"title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<p>
+<a><img alt="Python" src="https://img.shields.io/badge/Python-3776ab.svg?logo=python&logoColor=white"/></a>
+<a><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white"/></a>
+<a><img alt="C++" src="https://img.shields.io/badge/C%2b%2b-00599c.svg?logo=c%2b%2b&logoColor=white"/></a>
+<a><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white"/></a>
+<a><img alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC.svg?&logo=typescript&logoColor=white" /></a>
+<a><img alt="Powershell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?&logo=powershell&logoColor=white" /></a>
+</p>
 
-<img align="left" alt="TF" width="26px" height="26px" title="TensorFlow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Keras"  width="76px" height="22px" title="Keras" src="https://keras.io/img/logo.png" /> 
-  
-<img align="left" alt="Jupyter Notebook" width="26px" height="26px" title="Jupyter Notebook" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" />
+<p>
+<a><img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26.svg?logo=html5&logoColor=white" /></a>
+<a><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572b6.svg?logo=css3&logoColor=white" /></a>
+<a><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB" /></a>
+<a><img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-6DA55F?&logo=node.js&logoColor=white" /></a>
+</p>
 
-<img align="left" alt="Azure" width="26px" height="26px" title="Azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="Powershell" width="26px" height="26px"title="Powershell" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
-  <img align="left" alt="Visual Studio Code" width="26px" height="26px" title="VSCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Linux" width="26px" height="26px"title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<p>
+<a><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c.svg?logo=pytorch&logoColor=white" /></a> 
+<a><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-ff6f00.svg?logo=tensorflow&logoColor=white" /></a> 
+<a><img alt="Keras" src="https://img.shields.io/badge/Keras-d00000.svg?logo=keras&logoColor=white" /></a> 
+<a><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=googlecolab&logoColor=black"/></a>
+</p>
 
-<img align="left" alt="Git" width="26px"  height="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" height="26px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-</div>
-<br/><br/>
-
-<!-- ### ⚙️ &nbsp;GitHub Analytics
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ShreyanshJoshi&show_icons=true&include_all_commits=true&hide=stars" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshJoshi&layout=compact" />
-</p> -->
----
+<p>
+<a><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?&logo=microsoftazure&logoColor=white" /></a>
+<a><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" /></a>
+<a><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?&logo=flask&logoColor=white" /></a>
+<a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white" /></a>
+<a><img alt="Git" src="https://img.shields.io/badge/Git-f05032.svg?logo=git&logoColor=white" /></a>
+</p>
