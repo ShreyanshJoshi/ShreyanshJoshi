@@ -1,15 +1,16 @@
 ### Hi there 👋
-I'm Shreyansh and have just finished the final year of my undergraduate studies at BITS Pilani, Goa Campus, majoring in Computer Science. I am currently working in Azure BCDR team as a software engineer at Microsoft, building a single window for disaster recovery solutions.
-- 🌱 Previously, I have worked on *Identifying speech factors relevant in predicting Alzheimer's using ML* and on *Detecting and classifying facial microexpressions by training CNN + LSTM models*, as a part of my undergraduate degree. I also had the opportunity of exploring the research side of approximation algorithms by implementing various algorithms and observing their results.
-- ⚡ I also have worked on *3D unsupervised classification where we targeted a challenge scenario where there were unequal number of samples in each class*, under Prof. Min Xu, in his lab at CMU.
-- 😄 Fun fact: Anything in Computer Science piques my curiosity. I specifically like to study and work in the domains of Cloud Computing and Artificial Intelligence (Deep Learning).
+I'm Shreyansh and I am an incoming graduate student at **UCSD** majoring in computer science, starting Fall'23. I completed my undergraduate degree in computer science from **BITS Pilani** in 2022.
+
+- 🌱 Previously, I worked as a software engineer in the Azure BCDR team at Microsoft where I was a part of a group developing a new service on the Azure portal that provides customers with a single window for managing and viewing all of their disaster recovery activities (backup and DR).
+  
+- ⚡ I have research experience working in AI and computer vision from my ventures in my undergrad with a couple of research papers under my belt. I also worked on *3D unsupervised classification*, under Prof. Min Xu, in his lab at CMU.
+  
+- 😄 Fun fact: Anything in computer science piques my curiosity. I specifically like to study and work in the domains of cloud computing and artificial intelligence and in the future I envision myself blending these two dynamic fields to drive innovation and create impactful solutions to problems that matter.
 
 <!-- ### Github activity:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshJoshi&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height="250px"  alt="2" > -->
 
 ### Connect with me:
-
-[<img align="left" alt="shreyanshjoshi.github.io/" title="shreyanshjoshi.github.io/" width="22px"  height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shreyanshjoshi.github.io/)
 
 [<img align="left" alt="shreyansh-joshi-b7135018a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shreyansh-joshi-b7135018a/)
 
